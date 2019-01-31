@@ -33,7 +33,7 @@ A formative research report is collected from users on the selected theme throug
 * Storyboards creation: https://www.storyboardthat.com/ 
 * Prototype creation: Prototype On Paper(POP)- https://marvelapp.com/pop/
 	
-## Project Team:
+## Project Team
 1. Pravallika Kavikondala
 2. Matthew Balleza
 3. Krishna Priya Muraleedharan
